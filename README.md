@@ -38,3 +38,24 @@ This project demonstrates low-level programming, arrays, functions, input valida
 1. Clone the repository:  
 ```bash
 git clone https://github.com/niki623/Flight-Booking-System.git
+```
+2. Navigate into the project folder:
+```bash
+cd Flight-Booking-System
+```
+3. Compile the program (example using GCC):
+```bash
+gcc flight_booking.c -o flight_booking
+```
+4. Run the program:
+```bash
+./flight_booking   # Linux/macOS
+flight_booking.exe # Windows
+```
+## Usage
+1. Login with username and password  
+2. View available flights and select a flight code  
+3. Enter the number of seats to book  
+4. Choose discount type (if applicable)  
+5. Select payment method: Cash or Card  
+6. View the generated receipt
