@@ -59,3 +59,6 @@ flight_booking.exe # Windows
 4. Choose discount type (if applicable)  
 5. Select payment method: Cash or Card  
 6. View the generated receipt
+
+* A technical documentation describing the design and implementation of this project is included in this repo: Airline_Documentation.pdf
+
